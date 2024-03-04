@@ -3,8 +3,10 @@ Neste documento, investigamos métodos para aprimorar a segurança e a integrida
 
 
 ## Tecnologia e Conceitos
-onarQube: Uma ferramenta de análise estática de código que identifica bugs, vulnerabilidades, e problemas de código em geral. Ele fornece insights valiosos para melhorar a qualidade do código e a manutenibilidade do software.
+sonarQube: Uma ferramenta de análise estática de código que identifica bugs, vulnerabilidades, e problemas de código em geral. Ele fornece insights valiosos para melhorar a qualidade do código e a manutenibilidade do software.
+
 Projetos .NET: Refere-se a projetos de software desenvolvidos na plataforma .NET da Microsoft. Isso inclui aplicativos de desktop, aplicativos da web, serviços, e outras soluções que utilizam a estrutura e as linguagens de programação fornecidas pelo .NET.
+
 SonarScanner for .NET: Uma extensão do SonarQube para projetos .NET, que automatiza o processo de análise estática do código. Ele é usado para escanear o código-fonte, identificar problemas de qualidade e enviar os resultados para o servidor do SonarQube.
 
 ## Aprendizados
